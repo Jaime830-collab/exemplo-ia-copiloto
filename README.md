@@ -13,6 +13,17 @@ Este projeto apresenta uma ilustração original de um personagem fictício que 
   - **Energia e Ki:** Capaz de manipular energia e realizar ataques de Ki, combinando as técnicas de Goku e a precisão da Androide 18.
   - **Resistência:** A resistência física e mental do personagem é uma combinação das capacidades de ambos os pais, tornando-o extremamente resiliente em combate.
 
+## Imagens
+
+### Goku
+!Goku
+
+### Androide 18
+![Androide 18](https://alphacoders.com/android-18-%28dragon-ball%29-wallpapers)
+
+### Filho de Goku e Androide 18
+!Filho de Goku e Androide 18  <!-- Substitua este link pela imagem gerada -->
+
 ## Objetivo do Projeto
 
 O objetivo deste projeto é explorar a criatividade e a imaginação, criando um personagem único que homenageia dois dos personagens mais amados de Dragon Ball. Este projeto é puramente para fins de entretenimento e não está associado oficialmente à franquia Dragon Ball.
